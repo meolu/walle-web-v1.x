@@ -7,11 +7,11 @@
 [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
 
 :clap: :clap: :clap: :clap: :clap: :clap:
-**好消息，walle-web 2.0 正在开发测试中，全新架构设计，全新UI设计，2.0将以惊艳的面貌出现。感兴趣的同学请加微信：wu-shuiyong（备注名字@公司），了解更多资讯以及提自己的建议，谢谢。**
+**好消息，[walle-web 2.0](https://github.com/meolu/walle-web) 全新架构设计，全新UI设计，2.0将以惊艳的面貌出现。**
 
 Walle 一个web部署系统工具，可能也是个持续发布工具，配置简单、功能完善、界面流畅、开箱即用！支持git、svn版本管理，支持各种web代码发布，静态的HTML，动态PHP，需要编译的JAVA等。
 
-[官网主页](https://www.walle-web.io) | [文档手册](https://www.walle-web.io/docs/1) | [English Readme](https://github.com/meolu/walle-web-v1.x/blob/master/README.md).
+[官网主页](https://www.walle-web.io) | [文档手册](https://www.walle-web.io/docs/1) | [English Readme](https://github.com/meolu/walle-web-v1.x/blob/master/README.md) | [walle 2.0](https://github.com/meolu/walle-web)
 
 目前，超过百家企业生产环境部署使用，欢迎star、fork、试用 ：）
 
