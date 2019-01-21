@@ -156,14 +156,12 @@ $userName =  \Yii::$app->user->id ? $user->getName() : '';
                     </a>
 
                     <ul class="user-menu pull-right dropdown-menu dropdown-yellow dropdown-caret dropdown-close">
-                        <!-- 设置功能暂无
                         <li>
                             <a href="javascript:;">
                                 <i class="icon-cog"></i>
-                                设置
+                                walle v1.2
                             </a>
                         </li>
-                        -->
 
                         <li>
                             <a href="<?= Url::to('@web/user/') ?>">
@@ -175,6 +173,12 @@ $userName =  \Yii::$app->user->id ? $user->getName() : '';
                             <a href="<?= Url::to('@web/user/reset-password') ?>">
                                 <i class="icon-key"></i>
                                 <?= yii::t('w', 'dropdown reset password') ?>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://walle-web.io/" target="_blank">
+                                <i class="icon-home"></i>
+                                <?= yii::t('w', 'dropdown walle home') ?>
                             </a>
                         </li>
 

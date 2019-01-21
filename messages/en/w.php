@@ -50,6 +50,7 @@ return [
     'dropdown project apply' => 'Project Manager Aplly',
     'dropdown profile' => 'Profile',
     'dropdown reset password' => 'Reset Password',
+    'dropdown walle home' => 'Walle 2.0',
     'dropdown logout' => 'Logout',
     'menu config project' => 'Project Configure',
     'menu task list' => 'Deployment List',

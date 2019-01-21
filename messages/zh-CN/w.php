@@ -53,6 +53,7 @@ return [
     'dropdown message' => '消息通知',
     'dropdown project apply' => '项目管理员申请',
     'dropdown profile' => '个人资料',
+    'dropdown walle home' => 'Walle 官网 2.0',
     'dropdown reset password' => '修改密码',
     'dropdown logout' => '退出',
     'menu config project' => '项目配置',
